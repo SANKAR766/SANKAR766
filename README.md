@@ -50,8 +50,8 @@ All my learning projects, assignments and frameworks are available in my reposit
 
 ## 📫 Let's Connect!  
 
-- 💼 [LinkedIn](www.linkedin.com/in/sankar66)  
-- 📧 [Email](sankarloganathan66@gmail.com)    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankar66/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sankarloganathan66@gmail.com)
 
 ---
 
