@@ -1,21 +1,25 @@
- 
-# 👋 Hi there, I'm SANKAR
+# 👋 Hi there, I'm SANKAR  
 
-🎯 *Aspiring Automation Tester | Self-Taught | Passionate About Quality Engineering*
+🎯 Aspiring Automation Tester | Self-Taught | Passionate About Quality Engineering  
 
-Welcome to my GitHub! I'm a self-motivated and detail-oriented *fresher* currently seeking a role in *Automation Testing*. I’ve independently learned and practiced essential QA tools and technologies and I’m continuously building hands-on projects to sharpen my skills.
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+Welcome to my GitHub! I'm a self-motivated and detail-oriented fresher currently seeking a role in Automation Testing. I’ve independently learned and practiced essential QA tools and technologies and I’m continuously building hands-on projects to sharpen my skills.  
 
 ---
 
 ## 💼 What I Know  
 
-🔧 *Skills & Tools:*
+🔧 Skills & Tools:  
 
-- 🧪 *Testing: Manual Testing Concepts, Test Case Design, Bug Reporting, *SDLC & STLC*  
-- 🤖 *Automation: Selenium WebDriver, XPath, *TestNG Framework*  
-- 📊 *Frameworks*: Data-Driven Framework using Excel, Properties Files and TestNG  
-- 🛠 *Dev Tools*: Git, GitHub, Jira  
-- 🌐 *Languages*: Java (for automation scripting)
+- 🧪 Testing: Manual Testing Concepts, Test Case Design, Bug Reporting, SDLC & STLC  
+- 🤖 Automation: Selenium WebDriver, XPath, TestNG Framework  
+- 📊 Frameworks: Data-Driven Framework with Excel, Properties Files, TestNG and *Page Object Model (POM)*  
+- 🛠 Dev Tools: Git, GitHub, Jira  
+- 🌐 Languages: Java (for automation scripting)  
 
 ---
 
@@ -23,13 +27,13 @@ Welcome to my GitHub! I'm a self-motivated and detail-oriented *fresher* current
 
 All my learning projects, assignments and frameworks are available in my repositories. Some key highlights:  
 
-- *🔹 Selenium Test Automation Framework with TestNG*  
-  A modular, scalable data-driven framework built using Java, Selenium WebDriver and TestNG. Includes reusable components, test data from Excel and structured reports.  
-  ➤ [View Repository](https://github.com/YourUsername/Selenium-TestNG-Framework)  
+- 🔹 Data-Driven Framework with TestNG  
+  A modular, scalable test automation framework built using *Java + Selenium WebDriver + TestNG. Implements **Page Object Model*, Excel-driven test data, Properties file configuration and structured reports for better maintainability.  
+  ➤ [View Repository](https://github.com/SANKAR766/Data-Driven-Framework.git)  
 
-- *🔹 Jira Practice Project*  
-  Simulated bug tracking and task management using Jira. Includes screenshots and sample workflows.  
-  ➤ [View Repository](https://github.com/YourUsername/Jira-Practice-Project)  
+- 🔹 Selenium Learning Concepts  
+  A collection of Java + Selenium automation practice scripts covering different WebDriver commands, XPath strategies, waits and reusable methods.  
+  ➤ [View Repository](https://github.com/SANKAR766/Selenium-Learnings.git)  
 
 > 📌 More projects coming soon as I keep learning and building!  
 
@@ -39,17 +43,17 @@ All my learning projects, assignments and frameworks are available in my reposit
 
 - ✅ Build and refine a full-featured automation framework using Selenium + TestNG  
 - ✅ Contribute to open-source QA projects  
-- 🚀 Land a role as a *Junior Automation Tester*  
-- 📚 To Learn advanced tools like Cypress, API Testing & CI/CD (coming soon)  
+- 🚀 Land a role as a Junior Automation Tester  
+- 📚 Explore advanced tools like Cypress, API Testing & CI/CD (coming soon)  
 
 ---
 
 ## 📫 Let's Connect!  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile-id/)  
-- 📧 [Email](sankarloganathan66@gmail.com)  
-- 📄 [View My Resume](https://drive.google.com/file/d/yourfileID/view?usp=sharing)  
+- 💼 [LinkedIn](www.linkedin.com/in/sankar66)  
+- 📧 [Email](sankarloganathan66@gmail.com)    
 
 ---
 
-Thank you for visiting my profile — I'm actively seeking opportunities and open to internships or full-time QA roles. Let’s connect!  
+✨ Thank you for visiting my GitHub! I’m excited to keep learning and growing in the world of test automation. 🚀
+
